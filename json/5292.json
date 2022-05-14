@@ -1,0 +1,43 @@
+{
+  "name": "Dream Weasels #5292",
+  "description": "Wistful weasels, wandering around your wildest dreams.",
+  "image": "ipfs://NeedsReplacing/5292.png",
+  "dna": "2c055ffc3214f7b3b72f12c240683d571f842758",
+  "edition": 5292,
+  "date": 1652523217055,
+  "creator": "Tsundoku Studio",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "trippy_purple_gradient"
+    },
+    {
+      "trait_type": "Back",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Body",
+      "value": "green"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "toasty"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "pants"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "forwards_cap"
+    }
+  ]
+}
